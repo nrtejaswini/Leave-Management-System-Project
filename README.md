@@ -25,4 +25,5 @@ http://
 4.Back End	: 	MYSQL
 
 **Conclusion:**
+
 The Leave Management System for various types of organizations with multiple hierarchies can help in reducing paper work, help achieve error free tabulation and calculation of leaves.
